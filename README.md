@@ -3,9 +3,8 @@
 <img src="https://media.giphy.com/media/diHKF9t2VuTolzuG6F/giphy.gif" heigh="150" width="150">
 
 Estudante de programação front-end junior em desenvolvimento!<br>
-Conheci programação atravez da minha tia e sou simplismente apaixonada. Aqui voce vai acompanhar o meu desenvolvimento profissional e vai poder contibur com meu conhecimento.
-Então entre e sinta-se avontade....
-
+Conheci programação atravez da minha tia e sou simplismente apaixonada. Aqui você vai acompanhar o meu desenvolvimento profissional e vai poder contibur com meu conhecimento.
+ Então entre e sinta-se avontade ....
 
 ## Habilidades
 
